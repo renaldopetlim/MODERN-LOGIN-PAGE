@@ -13,5 +13,4 @@ Link: https://login-modern-page.netlify.app/
 <img src="/images/responsividade/desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/images/responsividade/sign-in.jpg" width="240px">
-<img src="/images/responsividade/sign-up.jpg" width="240px">
+<img src="/images/responsividade/sign-in.jpg" width="240px"><img src="/images/responsividade/sign-up.jpg" width="240px">
