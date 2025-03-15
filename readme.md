@@ -11,10 +11,8 @@ Este repositório contém um projeto de página de login moderna, com um design 
 📂 projeto-login
 │-- 📂 images
 │   └── system-icon_login.ico
-│-- 📂 css
-│   └── style.css
-│-- 📂 js
-│   └── script.js
+│-- style.css
+│-- script.js
 │-- index.html
 │-- README.md
 ```
