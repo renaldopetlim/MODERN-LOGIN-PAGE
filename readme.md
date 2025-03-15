@@ -9,11 +9,11 @@ Este repositório contém um projeto de página de login moderna, com um design 
 ## 📂 Estrutura do Projeto:
 ```
 📂 projeto-login
-│-- 📂 images
-│   └── system-icon_login.ico
+│-- index.html
 │-- style.css
 │-- script.js
-│-- index.html
+│-- 📂 images
+│   └── system-icon_login.ico
 │-- README.md
 ```
 
